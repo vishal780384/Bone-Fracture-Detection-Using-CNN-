@@ -1,0 +1,53 @@
+.contact-container {
+  width: 70%;
+  height: auto;
+  margin: auto;
+  padding: 7px; 
+  margin-top: 40px;
+  background-color: rgb(210, 237, 237);
+  border-radius: 10px;
+  text-align: center;
+  border: 1px solid black;
+
+}
+
+.title {
+    text-align: center;
+    color: rgb(64, 21, 12);
+    margin-bottom: 20px;
+}
+
+.social-media,
+.developer-details,
+.about-project {
+    margin-bottom: 30px;
+}
+
+.social-media h2,
+.developer-details h2,
+.about-project h2 {
+    color: rgb(51, 46, 107);
+    text-align: center;
+}
+
+.social-media ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.social-media li {
+    margin-bottom: 10px;
+}
+
+.social-media li a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.social-media li a:hover {
+    text-decoration: underline;
+}
+.social-media ul{
+    /* margin-right: 270px; */
+    margin: auto;
+}

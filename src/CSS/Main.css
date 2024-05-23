@@ -1,0 +1,62 @@
+.box {
+  width: 70%;
+  height: auto;
+  margin: auto;
+  text-align: center;
+  padding: 7px; 
+  margin-top: 40px;
+  background-color: rgb(210, 237, 237);
+  border-radius: 10px;
+}
+
+.box h1 {
+  color: rgb(64, 21, 12);
+  
+}
+
+h2{
+  color: rgb(51, 46, 107);
+} 
+
+.box p {
+  line-height: 1.5;
+  border-radius: 10px;
+  border: 1px black solid; 
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
+
+.box .text{
+  width: 97%;
+  height:auto;
+  margin: auto;
+}
+
+.container{
+    height:30%;
+    width: 97%;
+    margin: auto;
+    border: 1px black solid;
+    border-radius: 10px ;
+    margin-bottom: 50px;
+}
+
+.output_img img.selected-image {
+   width: 400px;
+   height: auto;
+   margin-bottom: 20px;
+   border-radius: 10px;
+   border: 1px solid black;
+}
+
+.output_img p{
+   width: 35%;
+   height: auto;
+   margin: auto;
+   background-color: rgb(35, 81, 35);
+   margin-top: 25px;
+   margin-bottom: 30px;
+}
+
+

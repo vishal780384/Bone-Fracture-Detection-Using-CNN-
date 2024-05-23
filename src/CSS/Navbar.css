@@ -1,0 +1,27 @@
+/* Navbar.css */
+
+.navbar {
+    background-color: #39547c;
+    padding: 20px;
+    display: flex;
+    justify-content: center; /* Center the content horizontally */
+  }
+  
+  .nav-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  .nav-item {
+    margin-right: 30px;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .nav-item:hover {
+    text-decoration: underline;
+  }
+  

@@ -1,0 +1,45 @@
+.bone-care-container {
+  width: 70%;
+  height: auto;
+  margin: auto;
+  padding: 7px; 
+  margin-top: 40px;
+  background-color: rgb(210, 237, 237);
+  border-radius: 10px;
+  border:1px solid black;
+}
+
+.title {
+    text-align: center;
+    color: rgb(64, 21, 12);
+    margin-bottom: 20px;
+}
+
+.instructions,
+.precautions {
+    margin-bottom: 30px;
+}
+
+.instructions h2,
+.precautions h2 {
+    color: rgb(51, 46, 107);  
+    margin-bottom: 10px;
+}
+
+.instructions ul,
+.precautions ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.instructions li,
+.precautions li {
+    margin-bottom: 10px;
+}
+
+.instructions h2,ul{
+    margin-left: 300px; 
+} 
+.precautions h2,ul{
+    margin-left: 300px; 
+} 
